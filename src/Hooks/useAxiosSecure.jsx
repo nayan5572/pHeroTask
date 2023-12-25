@@ -6,7 +6,7 @@ import useAuth from "./useAuth";
 
 
 const axiosSecure = axios.create({
-    baseURL: 'http://localhost:5173/'
+    baseURL: 'https://task-job-p-hero.vercel.app/'
 });
 
 const useAxiosSecure = () => {

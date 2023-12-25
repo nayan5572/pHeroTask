@@ -8,7 +8,7 @@ const ExplorerCourse = () => {
     const [explorer, setExplorer] = useState([]);
 
     useEffect(() => {
-        fetch('featured.json')
+        fetch('https://task-job-p-hero.vercel.app/exploreCourse')
             .then(res => res.json())
             .then(data => setExplorer(data))
     }, [])
