@@ -1,0 +1,51 @@
+[
+    {
+      "image": "https://i.ibb.co/G070vLG/2.jpg",
+      "title": "Programming Language",
+      "date": "2023-12-01",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "image": "https://i.ibb.co/wJJ8JpZ/4.jpg",
+      "title": "General",
+      "date": "2023-12-05",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "image": "https://i.ibb.co/9t9h2Gh/5.jpg",
+      "title": "Photography",
+      "date": "2023-12-10",
+      "description": "Discover the secrets of maintaining a beautiful garden. Tips on planting, watering, and dealing with common pests."
+    },
+    {
+      "image": "https://i.ibb.co/DzZKZjm/6.jpg",
+      "title": "IT & Software",
+      "date": "2023-12-15",
+      "description": "Unlock your creativity with digital painting. Explore various techniques and create stunning digital artworks."
+    },
+    {
+      "image": "https://i.ibb.co/tYXTFBP/7.jpg",
+      "title": "Business Manegement",
+      "date": "2023-12-20",
+      "description": "Get fit and stay healthy with our intensive fitness bootcamp. Suitable for all fitness levels!"
+    },
+    {
+      "image": "https://i.ibb.co/wSvP9b4/8.jpg",
+      "title": "UI Design",
+      "date": "2023-12-25",
+      "description": "Embark on a culinary journey around the world. Learn to cook delicious dishes from various international cuisines."
+    },
+    {
+      "image": "https://i.ibb.co/4TmjRXM/9.jpg",
+      "title": "Manegement",
+      "date": "2023-12-28",
+      "description": "Master the basics of photography. From understanding your camera to capturing the perfect shot."
+    },
+    {
+      "image": "https://i.ibb.co/7brTC7N/10.jpg",
+      "title": "Computer Basic",
+      "date": "2023-12-31",
+      "description": "Relax and rejuvenate with our yoga and meditation retreat. Find inner peace and balance in a serene environment."
+    }
+  ]
+  
